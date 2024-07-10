@@ -1,1 +1,1 @@
-# awesome-applicant-frontend
+# awesome-applicant-backend
